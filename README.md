@@ -14,7 +14,7 @@ kubernetes install using helm charts and  custom values.yaml
   
  3. use following command after editing vaules.yaml file
 
-# helm install --name minio-s3-gateway  -f values.yaml stable/minio
+### helm install --name minio-s3-gateway  -f values.yaml stable/minio
 
 
 
