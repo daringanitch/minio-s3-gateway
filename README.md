@@ -1,5 +1,10 @@
 # minio-s3-gateway tested on KOPS deployed Kuberenetes cluster in AWS
 
+prerequisites:
+1. Kubernetes cluster in AWS
+2. helm installed
+3. AWS account.
+
 kubernetes install using helm charts and  custom values.yaml
 
 1. clone repo to local
